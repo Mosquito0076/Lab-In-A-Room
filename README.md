@@ -1,6 +1,6 @@
 # 🧪 방구석 실험실
 
-![썸네일](https://user-images.githubusercontent.com/95673624/231237206-e4096491-761e-4294-8067-86b02c9895dd.png)
+![썸네일](https://user-images.githubusercontent.com/95673624/231238314-a03a3877-0fd0-4a75-b65a-9bb69656269c.png)
 
 [방구석 실험실 UCC (PPT Ver)](https://www.youtube.com/watch?v=m6aFv76pGqI)
 
